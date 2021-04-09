@@ -1,4 +1,4 @@
-library flutter_extensions;
+library extension_helpers;
 
 import 'package:flutter/material.dart';
 
