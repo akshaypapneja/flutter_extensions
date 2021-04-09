@@ -1,8 +1,8 @@
 name: flutter_extensions
-description: A new Flutter package.
+description: A flutter package able to help you via extensions and helper methods.
 version: 0.0.1
-author: Akshay Papneja
-homepage:
+#author: Akshay Papneja <akshayarora702@gmail.com>
+homepage: https://github.com/akshaypapneja/flutter_extensions.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -11,6 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
 
 dev_dependencies:
   flutter_test:
